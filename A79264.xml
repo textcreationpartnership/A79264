@@ -1,0 +1,2268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands sad posture; or, A true description of the present estate of poore distressed England, and of the lamentable condition of these distracted times, since the beginning of this civill, and unnaturall warr. / presented to the Right Honourable, pious and valiant, Edward, Earle of Manchester.</title>
+            <author>Calver, Edward, fl. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79264</idno>
+            <idno type="STC">Wing C315</idno>
+            <idno type="STC">ESTC R170351</idno>
+            <idno type="EEBO-CITATION">45097593</idno>
+            <idno type="OCLC">ocm 45097593</idno>
+            <idno type="VID">171204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2567:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands sad posture; or, A true description of the present estate of poore distressed England, and of the lamentable condition of these distracted times, since the beginning of this civill, and unnaturall warr. / presented to the Right Honourable, pious and valiant, Edward, Earle of Manchester.</title>
+                  <author>Calver, Edward, fl. 1649.</author>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+               </titleStmt>
+               <extent>[8], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop, and are to be sold by Richard Harper, in Smithfield, at the Signe of the Bible.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Edvvard Calver.</note>
+                  <note>Includes 2 mounted ports. of the Earl of Manchester on front flyleaves.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Social conditions --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="part">
+            <pb facs="tcp:171204:1"/>
+            <pb facs="tcp:171204:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>The Right Honourable. Edward Lord Monta<g ref="char:EOLhyphen"/>gue. Baron of Kimbolton. Viſ-count Mandeuile. Earle of Mancheſter. And Maior Generall of the Parliaments Forces in the aſſociated Countyes, Norfolke, Suffolke &amp; Eſſex</head>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:171204:2" rendition="simple:additions"/>
+            <pb facs="tcp:171204:3" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>The true portraiture of the Right Honourable Edward Lord Montague Baron of Kimbolton Viſ<g ref="char:EOLhyphen"/>count Mandevile Earle of Mancheſter and Major Generall of the Parliaments Forees in the Aſſociated Covnties norfolke, Suffolke, &amp; Eſſex <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:171204:3"/>
+            <p>
+               <hi>ENGLANDS</hi> SAD POSTURE; <hi>OR,</hi> A true Deſcription of the preſent Eſtate of poore diſtreſſed England, and of the lamentable Condition of theſe diſtracted times, ſince the beginning of this Civill, and unna<g ref="char:EOLhyphen"/>turall Warr.</p>
+            <p>
+               <hi>Preſented to the Right Honourable, Pious, and Valiant, EDWARD,</hi> Earle of MANCHESTER.</p>
+            <p>You that have Eye-lids, that can teares diſtill, View Englands Poſture, and then weep your fill.</p>
+            <p>LONDON, Printed by <hi>Bernard Alſop,</hi> and are to be ſold by <hi>Richard Harper,</hi> in Smithfield, at the Signe of the Bible. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171204:4"/>
+            <pb facs="tcp:171204:4"/>
+            <head>
+               <hi>TO THE</hi> RIGHT HONOVRABLE, <hi>Pious, Valiant, and vigilant, EDWARD</hi> Earle of MANCHESTER, and Noble Generall, over all Mili<g ref="char:EOLhyphen"/>tary forces in our Eaſterne, aſſociated Counties.</head>
+            <p>
+               <seg rend="decorInit">R</seg>IGHT Honourable, and therefore Honourable, be<g ref="char:EOLhyphen"/>cauſe truly Right, not only a lover, and practiſer, but a faithfull defendar of right. But that which makes your fame ſingugular, is that this vertue in you is ſo ge<g ref="char:EOLhyphen"/>nerall, that where as all men are by nature, encli<g ref="char:EOLhyphen"/>ned to ſeeke their owne right, your Honour hath engaged, both your Life and Eſtate, to mainetaine the right of others, yea the right of our King and Country, nay which is moſt tranſcendent, the right &amp; ſafety of Gods cauſe; which is now, by unhappie occaſion, in danger to ſuffer violence. And in this your uprightneſſe of heart, in defence of the right of your caſe, you have hitherto done ſo rightly and Nobly, that it cannot appeare in the leaſt part, that the faireſt profeſsers of reward, nor the fow<g ref="char:EOLhyphen"/>leſt
+<pb facs="tcp:171204:5"/>threatnings of revenge, could either draw or drive you to ſo much as ſlack your Impartiall hand in theſe your pious proceedings, much leſſe to betray your truſt: nor hath envie it ſelfe, the leaſt moate to caſt into you diſh, which <hi>(Noble Earle)</hi> is now more rare then over; Europ being now in travill, to caſt ſome poiſon into every diſh, that is preſented on the table of our diſtempered State, and n<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doubt hath often abuſd your Honorable preſence in preſenting great and groſſe Malignants, in diſguiſed habits. And as this to the eie of the world, and to your Eternall praiſe, doth render you truely Honourable; ſo it doth happily declare, the happineſſe we injoy by injoying ſo happie, ſo vi<g ref="char:EOLhyphen"/>gilant, and ſo ſucceſſefull a governour, as your Honourable ſelfe is, under whom, through the bleſſing of God, we in theſe aſſociated Counties, may more truly ſay, then <hi>Turtellius</hi> did to <hi>Felix</hi> we enjoy much quietneſs: And ſeeing by your Honour, worthy deeds are done for your Country we except it with all thankefulneſse, and alacri<g ref="char:EOLhyphen"/>ty of ſpirit; being bound to bleſse God, for ſuch a bleſsing upon us, and not to ceaſe praying that you may ride on and proſper. Now right Honourable, amongſt other theſe your deep engaged ſervants, I the moſt unworthy of the leaſt of your favours, have notwithſtanding, preſuming on your Cle<g ref="char:EOLhyphen"/>mency, dared to ſhelter theſe my deformed ſhad<g ref="char:EOLhyphen"/>dows, under the wings of your protecting ſubſtance, yet <hi>(Noble Earle)</hi> no farther then they may be ca<g ref="char:EOLhyphen"/>paple of favour, but if in any thing I have erred,
+<pb facs="tcp:171204:5"/>I am there at your pleaſure, to be corrected. Now in this miſhapen picture, I have laboured to offer to your view, and ſo to the eye of the world, the moſt deformed forme of our nations, now moſt mi<g ref="char:EOLhyphen"/>ſerably miſerable eſtate; out of which tis poſſible, that your piercing cie may pick ſomewhat, that may be uſefull; but if not, I beſeech your Honour to reſolve, that my intents herein are honeſt, and the contents (if we make no other uſe of them) may at the leaſt tend to our humiliation; they being no other then a glaſſe, wherin we may ſee our ſinns, reflecting upon our ſelves: and in our preſent mi<g ref="char:EOLhyphen"/>ſeries, read our foregoing offences: but not any way preſuming to inſtruct, nor too farr to trouble your Honour with trifles, I ceaſe in this kind, to be any farther tedious, humbly begging pardon for this my intruſion, and I ſhall for ever hold it my happineſſe to heare of your proſperity; which in ſpight of all your enemies, the God of all good ſucceſſe, crowne your Honour with, as he hath be<g ref="char:EOLhyphen"/>gun. So prayes</p>
+            <closer>
+               <signed>Your humble perioner EDVVARD CALVER.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:171204:6"/>
+            <head>THE PREFACE.</head>
+            <p>THE Title of this Book, doth ſuccinctly, and briefly, comply with the ſad conditi<g ref="char:EOLhyphen"/>on of the preſent times; deſcribing the turbu<g ref="char:EOLhyphen"/>lent ſtate of this land, and the many miſeries, under which the genius of this Kingdom, doth now growne. Warr hath never ſeemed ſweet to any, but to the unexperienced, who blinded with its floriſh, and its glory, obſerve not the Tragicall events, that doe attend it. Of all the Warr the Civill is moſt grevous, where all the obligations of friendſhip, and Nature, lie can<g ref="char:EOLhyphen"/>celd in one anothers blood; while Brothers, and Kindred, deſtroy one another, by the de<g ref="char:EOLhyphen"/>vouring ſword: Religion being traduced to palliat theſe bloody acts, and trampled down by Malignants and Papiſts, for the defence wherof our Liberties, and Lawes, we are bound unto the Parliament, to whom we owe our ſafety and ſubſiſtance. This Kingdom doth now ſtand in a moſt ſad poſture; firſt occaſioned by ſinne, and now puniſhed by the juſtice of God, with an unnaturall warr, makeing it ſwim in a deluge of its owne blood. Every day brings in many ſad Demonſtrations, corcerning this ſubject, the burning of houſes, the pillaging of of goods, the violating of all Lawes, both Di<g ref="char:EOLhyphen"/>vine
+<pb facs="tcp:171204:6"/>&amp; Humaine, have bin Arguments written in blood, by too many ſwords. That which is heer related in the following ſeverall particu<g ref="char:EOLhyphen"/>lers, and Epigrams adjoyned thereunto, may be fitly called Englands ſad Poſtures, or her Glaſſe wherein ſhe may behold her ſadd diſtracted face, her ſufferings at this preſent, being a compendious mixture of all diſtreſſes, endu<g ref="char:EOLhyphen"/>red even from the beginning of this Civill Warr, which being heer preſented unto your view; I doubt not but that it will finde deſer<g ref="char:EOLhyphen"/>ved compaſſion in the Reader, and move him to ſend up his prayers to heaven, that this bleeding Kingdome, may be once againe eſta<g ref="char:EOLhyphen"/>bliſhed in Peace and Truth, as all good men doe moſt earneſtly deſire. This Book being but a ſadd Picture of the miſerable calamities of this Kingdome, drawne out by the hand of the Author.</p>
+            <closer>
+               <signed>E. CALVER.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:171204:7"/>
+            <head>THE CONTENTS.</head>
+            <l>OUR Sinns provoking. Gods Anger ſmoaking.</l>
+            <l>The Sword proceeding. The Kingdome bleeding.</l>
+            <l>Our King turmoyling. The Parliament toyling,</l>
+            <l>Religion ſhaking. Our Lawes now quaking.</l>
+            <l>Delinquents Plotting. The Papiſts doting,</l>
+            <l>Malignants Raving. True Chriſtians Craving.</l>
+            <l>Good people praying. This Author deviſing</l>
+            <l>On theſe ſad times or <hi>Epigramatizing.</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:171204:7"/>
+            <head>Our Sinnes provoking.</head>
+            <lg>
+               <l>SIN, I the moſt prodigious ſight indeed,</l>
+               <l>The Divells offſpring, moſt Infernall ſeed;</l>
+               <l>The root of Ruine, death, and Hell, and care,</l>
+               <l>Heavens, how endur'd you, when I acted there?</l>
+               <l>You ſpotleſſe powers, and I the moſt defiling,</l>
+               <l>Could not agree, which cauſ'd my thence exiling,</l>
+               <l>But powers Celeſtiall, could your care in this</l>
+               <l>Be ſo preciſe then, and now ſo remiſſe?</l>
+            </lg>
+            <lg>
+               <l>My Father did but once offend at firſt,</l>
+               <l>And was for ever, ſentenced accurſt:</l>
+               <l>But cockerd mankind diſoebyes you ſtill,</l>
+               <l>And yet is favour'd, ſufferd in his ill.</l>
+            </lg>
+            <lg>
+               <l>Looke downe on England, on that divine Eden,</l>
+               <l>See, how it ſurfets, on the fruit forbidden,</l>
+               <l>Nay, with my Father, it aſpires the Crowne,</l>
+               <l>Whereon he dored, oh! then caſt it downe.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Sin, thou haſt ſurely drawne thy picture well,</l>
+               <l>And juſtly claim'ſt thy pedigree from Hell.</l>
+               <l>Thou and the Divell are ſo neere allyd,</l>
+               <l>That where thou acteſt, he doth cheifely guide:</l>
+            </lg>
+            <lg>
+               <l>Satan that ſerpent, is indeed thy ſire,</l>
+               <l>And thou his viper art, his chiefe deſire,</l>
+               <l>Although thy hatching (moſt unhappie birth)</l>
+               <l>Loſt him the comforts, both of heaven and earth.</l>
+            </lg>
+            <lg>
+               <l>Sin, thou indeed maiſt ſilly man accuſe,</l>
+               <l>That with thy nature, thou ſhouldſt his abuſe:</l>
+               <l>Man, who by nature, in Gods Image ſhind,</l>
+               <l>Should in thy Image, now the Divell finde.</l>
+               <l>But ſin, thou Serpent, though thou haſt the Art,</l>
+               <l>To coſen mankind, and accuſe him for't;</l>
+               <l>Accuſe not God though, whoſe proceeding muſt,</l>
+               <l>By thy falſe Father, be acknowledg juſt.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="2" facs="tcp:171204:8"/>
+            <head>Gods Anger ſmoaking.</head>
+            <lg>
+               <l>Oh! England England, fooliſh England, nay</l>
+               <l>Thou knowſt it, and doſt yet reject thy day;</l>
+               <l>My goodneſſe to thee, is ſo long expreſt,</l>
+               <l>Thou furferſt with is, thou doſt love the taſt.</l>
+               <l>Nay yet more ſor did, more perverſe by much,</l>
+               <l>Becauſe thou findſt my long forbearance ſuch:</l>
+               <l>Thou fondly thinkſt me like thy ſelfe no doubt,</l>
+               <l>Or elſe doſt judge my eie of juſtice out.</l>
+            </lg>
+            <lg>
+               <l>Thy ſinns, they are aſcended, and declare</l>
+               <l>Thee ſo rebellious, that I bluſh to heare;</l>
+               <l>Can ſo much mercy, be ſo much withſtood?</l>
+               <l>Ah, it repents me, I have done thee good.</l>
+               <l>Ceaſe then my mercy, thou in vaine art ſhowne,</l>
+               <l>And ſtirr my juſtice, be to England knowne.</l>
+               <l>Thoſe mercies wherein it could finde no taſt,</l>
+               <l>Now make them longd for, or elſe lay it waſt.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Lord, Lord, tis true, we muſt though to our ſhame,</l>
+               <l>Confeſſe unto the glory of thy Name,</l>
+               <l>That England hath been infinitely bleſt,</l>
+               <l>In takeing from thee, though returning leaſt.</l>
+            </lg>
+            <lg>
+               <l>England hath been like Eden, therein growing</l>
+               <l>All fruits delicious, ſtreames of pleaſures flowing.</l>
+               <l>But oh fond England, thus well ſtreamd and fruited,</l>
+               <l>Hath took a ſurfer, and thoſe ſtreames polluted.</l>
+            </lg>
+            <lg>
+               <l>England, muſt therefore guilty, guilty cry,</l>
+               <l>Though England therefore ſentenc'd be to dye.</l>
+               <l>But its accuſer is its foe, nay thine,</l>
+               <l>Then ſee his malice, let thy mercy ſhine.</l>
+            </lg>
+            <lg>
+               <l>But Lord thy juſtice, muſt have courſe tis true,</l>
+               <l>But with thy juſtice, doe thy mercy ſhewe.</l>
+               <l>Sin to thy judgment, England hath ſubjected,</l>
+               <l>Let ſin be ſlayne for't, England but corrected.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:171204:8"/>
+            <head>The Sword proceeding.</head>
+            <lg>
+               <l>Come, I muſt rouſe now, must no longer rest,</l>
+               <l>In groſſe oblivion, I from heaven am prest.</l>
+               <l>But is this certaine? yes it is decreed,</l>
+               <l>My Captaine calls me, I must then proceed.</l>
+            </lg>
+            <lg>
+               <l>The Lord of Hoasts, now utters his command,</l>
+               <l>And ſend commſſion downe into my hand,</l>
+               <l>That I to judgment, must proceed in hast,</l>
+               <l>By taking vengeance, and in laying wast;</l>
+            </lg>
+            <lg>
+               <l>Eſpecially in England where I ſlept</l>
+               <l>So many late long yeares, in durance kept,</l>
+               <l>That I through length of time, neglect and dust,</l>
+               <l>Was quite forgotten, and conſumd with rust.</l>
+               <l>But now I have comiſſion, a decree,</l>
+               <l>Of Englands follyes, to revenged bee.</l>
+            </lg>
+            <lg>
+               <l>Of Englands blood, now must I drinke my fill,</l>
+            </lg>
+            <lg>
+               <l>And ſcoure the rust off, with the dropps Iſpill.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Infatuate weapon, oh Remorſeleſſe foe,</l>
+               <l>Thou without pittre, dost thou rigour ſhowe.</l>
+               <l>But ſenſeleſſe England, that thou thus ſhouldſt urge</l>
+               <l>A God ſo gentle, to uſe ſuch a ſcourge.</l>
+            </lg>
+            <lg>
+               <l>England, England, how wilt thou have eaſe?</l>
+               <l>This wrath thou canst not in the ſword appeaſe;</l>
+               <l>That raves and rages, as if warrs did chooſe</l>
+               <l>To make this Realme, his place of Randevouze.</l>
+            </lg>
+            <lg>
+               <l>But ſword thou ſparst not, car'ſt not who complaine.</l>
+               <l>To invocate thee, then is endleſſe, vaine.</l>
+               <l>Alaſſe for England Lord! tis thus undone;</l>
+               <l>But thou hast mercy, though the ſword hath none.</l>
+            </lg>
+            <lg>
+               <l>Lord check the ſword then, thou alone hast power;</l>
+               <l>And ſword, though thou hast licence to devoure,</l>
+               <l>And eate up England, must thou drinke the blood</l>
+               <l>Of Gods owne ſervants, is not that too good?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:171204:9"/>
+            <head>The Kingdome bleeding.</head>
+            <lg>
+               <l>Bleeding indeed, alaſſe my wounds are wide,</l>
+               <l>The ſword makes iſſues, ſtreames on every ſide;</l>
+               <l>Yea bleed ſo fully, I to faint beginne,</l>
+               <l>My heart is wounded, and I bleed within:</l>
+            </lg>
+            <lg>
+               <l>Nay bleed not only blood, but tis my griefe,</l>
+               <l>That I in bleeding can have no reliefe.</l>
+               <l>No meanes, no Surgeon can be found, hath are,</l>
+               <l>To ſtanch my iſſue, ſtay my bleeding heart.</l>
+               <l>Oh ſad condition, no ſalve to applie,</l>
+               <l>Can ſtop this currant, muſt I bleeding die?</l>
+               <l>Moſt wretched I, then have I ſuch a vent,</l>
+               <l>So deep a wound, when all my balme is ſpent.</l>
+            </lg>
+            <lg>
+               <l>But foooliſh England, that I took no heed,</l>
+               <l>In time of plenty, for a time of need.</l>
+               <l>I in my health built Caſtles in the aire,</l>
+               <l>But now in ſickneſſe, loe, I now diſpaire.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>England, deare England, I muſt hold thee ſo,</l>
+               <l>Deare in my thoughts, though now in deadly woe.</l>
+               <l>Thy blood muſt doubtleſſe ſoone be ſpent indeed,</l>
+               <l>When in thee almoſt every vaine doth bleed.</l>
+            </lg>
+            <lg>
+               <l>Thy ſtreames run ſwiftly, not by dropping ſhed,</l>
+               <l>But ſtreames are flowing, as if fountaines bled;</l>
+               <l>Fountaines indeed, as well as Conduits ſmall,</l>
+               <l>Th'impartiall ſword, makes no reſpect at all.</l>
+            </lg>
+            <lg>
+               <l>But oh thou God of England, and of warr,</l>
+               <l>And eke of peace, where people humbled are.</l>
+               <l>The ſword it ſelfe is moſt remorſeleſſe ſteel,</l>
+               <l>But yet thy hand that ſtrikes therewith, can feel.</l>
+            </lg>
+            <lg>
+               <l>England, then England, ſeek unto that hand,</l>
+               <l>That awfull, power full, that gave the ſword command,</l>
+               <l>That Lord of all, that God of Hoaſts indeed;</l>
+               <l>He orders Battells, only helps at need.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:171204:9"/>
+            <head>Our King turmoiling.</head>
+            <lg>
+               <l>You higher powers, can you ſo knit your brow,</l>
+               <l>Upon the owner of a Crowne below?</l>
+               <l>That Charles, whom his dominions ſhould obey,</l>
+               <l>Should only beare the Scepter, not the ſway?</l>
+            </lg>
+            <lg>
+               <l>Supremeſt powers, this may indeed be due,</l>
+               <l>As my correction, if your hand I view;</l>
+               <l>But if I view them, whom your juſt command,</l>
+               <l>Hath made my ſubjects, may they Charles withſtand?</l>
+            </lg>
+            <lg>
+               <l>Unhappie Charles then, but you higher Chaires,</l>
+               <l>Who have the rule of all Terrene affairs.</l>
+               <l>Though you, and juſtly, overrule my Crowne,</l>
+               <l>Yet give me leave, to keep my ſubjects downe.</l>
+            </lg>
+            <lg>
+               <l>Let from your fountaynes, ſo much fulneſſe ſpring,</l>
+               <l>If I command not, I am then no King.</l>
+               <l>Suits it with Royall dignity, that we?</l>
+               <l>Should ſubject, to a ſubjects party be.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Great King of Kings, who haſt the cheife command,</l>
+               <l>Within whoſe hand, our Sove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aigns heart is ſpand:</l>
+               <l>Teach him to pray, for what befits him beſt,</l>
+               <l>And then in mercy, anſwer his requeſt.</l>
+            </lg>
+            <lg>
+               <l>Lord, give him wiſdome, to diſcerne his foes,</l>
+               <l>And then a weapon, to prevaile on thoſe.</l>
+               <l>And let thy greatneſſe, to his grace make deere,</l>
+               <l>Not men inſinuating, but ſincere.</l>
+               <l>And gracious Soveraigne, if poore aſhes may,</l>
+               <l>As for your highneſſe, to your highneſſe pray.</l>
+               <l>Eſteem not men for acts, in State moſt fitt,</l>
+               <l>Who in Religion, never acted yet.</l>
+            </lg>
+            <lg>
+               <l>Tis fear'd, that the preferments, the promotion,</l>
+               <l>Attends on many, takes up their devotion;</l>
+               <l>And men aſpiring, are the leaſt to truſt,</l>
+               <l>Religion, only bindes men to be juſt,</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:171204:10"/>
+            <head>Our Parliament toyling.</head>
+            <lg>
+               <l>Sure heavie ſequell, very heard ſucceſſe,</l>
+               <l>The Kingdome panting, almoſt pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> redreſſe;</l>
+               <l>And loe we labour, to redreſſe the ſame,</l>
+               <l>Yea in much perrill, and yet paid with blame.</l>
+            </lg>
+            <lg>
+               <l>Labour indeed, both night and day we ſpend,</l>
+               <l>In tedious ſtuddy, England to defend:</l>
+               <l>We neither paines, nor life nor living ſpare,</l>
+               <l>Beſides the burden of contempt we bare.</l>
+            </lg>
+            <lg>
+               <l>Well may we groane then under ſuch a weight,</l>
+               <l>And we beſides, diſmembred by decert.</l>
+               <l>Nay more, infeebled underneath this lead,</l>
+               <l>Not only members, but we want our head;</l>
+            </lg>
+            <lg>
+               <l>We want our hopes, our hearts deſire our King,</l>
+               <l>Whoſe preſence, had been pretious in this thing.</l>
+               <l>Unhappie project, that did thus betray,</l>
+               <l>Both King and Kingdome, ſtealing him away.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>We reade that learn'd Aſtrologers approve,</l>
+               <l>Of certaine houſes, in the ſpheares above;</l>
+               <l>Wherin the Planets, as they doe relate,</l>
+               <l>Are ſure moſt active, moſt predominate.</l>
+            </lg>
+            <lg>
+               <l>So you our leſſer Plannets, here belowe,</l>
+               <l>Now in your houſes, doe your brighttnſſe ſhowe,</l>
+               <l>You in your motions, alwaies gave a light,</l>
+               <l>But now right center'd, you appeare moſt bright.</l>
+            </lg>
+            <lg>
+               <l>Our Sunne and Moone, are ſo declined weſt,</l>
+               <l>That you our Starrs are needfull in the Eaſt.</l>
+               <l>Shine then, oh ſhine then, till your greater light,</l>
+               <l>Gets from beneath, this Canopy of night.</l>
+            </lg>
+            <lg>
+               <l>But leſſer Plannets of the greater borrow,</l>
+               <l>Our Sunns declining, therefore breeds your ſorrow:</l>
+               <l>But God the fountaine, whence all light begun,</l>
+               <l>Makes ſtarrs to ſhine, in abſence of the Sun.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="7" facs="tcp:171204:10"/>
+            <head>Religion Shaking.</head>
+            <lg>
+               <l>Great God, great guide, and fountaine of all good,</l>
+               <l>From whence it iſſues ſtreames into a flood:</l>
+               <l>Thinke, thinke uppon me, oh thou fountaines head,</l>
+               <l>I am a drop, which from thy bucket ſlid.</l>
+            </lg>
+            <lg>
+               <l>I am thy offſpring, why art thou eſtrang'd?</l>
+               <l>Doſt thou not know me? Lord am I ſo chang'd?</l>
+               <l>But thou know'ſt all things, then the fault muſt be,</l>
+               <l>Not in thy knowledg, but alaſſe in me.</l>
+            </lg>
+            <lg>
+               <l>I am indeed polluted, and defil'd,</l>
+               <l>And have ſo loſt the Image of thy child;</l>
+               <l>That though thou knoweſt me, thou maiſt view me ra<g ref="char:EOLhyphen"/>ther,</l>
+               <l>As a diſdaineing, then indulgent Father.</l>
+            </lg>
+            <lg>
+               <l>But, Lord thou canſt not, without ſorrow ſure,</l>
+               <l>Thy childs deſtruction, though defil'd indure.</l>
+               <l>Clenſe then, oh clenſe me, rather then reject,</l>
+               <l>Lord doe not ruine, though thou deſt correct.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Great God and gratious, from whoſe height indeed,</l>
+               <l>Doth all the goodneſſe here below proceed;</l>
+               <l>Amongſt the reſt, Religion as the chiefe,</l>
+               <l>Which calling to thee, cannot want reliefe.</l>
+            </lg>
+            <lg>
+               <l>Though now it ſtammers, thou canſt underſtand,</l>
+               <l>Though now it fainteth, thou haſt help at hand:</l>
+               <l>And though thou hear'ſt it, we are bound to call,</l>
+               <l>For if that ſuffers, we muſt ſuffer all.</l>
+            </lg>
+            <lg>
+               <l>And deare Religion, thou that haſt the keyes,</l>
+               <l>To give us entrance, where all comfort lies.</l>
+               <l>Oh feare not, feare not, thou ſhalt ſure have aide,</l>
+               <l>Thy ſuits are granted, though they ſeeme delay'd.</l>
+            </lg>
+            <lg>
+               <l>Thou haſt indeed abuſ'd thy keyes in ſtore,</l>
+               <l>By fondly trying, a forbidden doore.</l>
+               <l>But now thou ſeeſt, thou wert deceivd therein,</l>
+               <l>And ſeekſt reforming, thou ſhalt favour win.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:171204:11"/>
+            <head>Our Lawes now quaking.</head>
+            <lg>
+               <l>Shaking, and quaking, it is ſo indeed,</l>
+               <l>Alaffe we ſhiver, and quiver, like a reed;</l>
+               <l>Our old injunctions are recalld againe,</l>
+               <l>Our new preſcriptions, held by ſome as vaine.</l>
+            </lg>
+            <lg>
+               <l>We which were wonted to be Englands guide,</l>
+               <l>Are now ſo peſterd, pent on every ſide.</l>
+               <l>We who ſhould have the ſway of all the land,</l>
+               <l>Condemning others, now condemned ſtand.</l>
+            </lg>
+            <lg>
+               <l>Diſtracted England, how wilt thou have eaſe?</l>
+               <l>Where England wilt thou prove out thy firſt pleas;</l>
+               <l>What preſervation, canſt thou look to have,</l>
+               <l>What Iuſtice, when we ſuffer, that ſhould ſave?</l>
+            </lg>
+            <lg>
+               <l>Needs muſt thou England be indeed confuſd,</l>
+               <l>If rules of order may be thus abuſ'd.</l>
+               <l>If we, which in thee ſhould ſet all things right,</l>
+               <l>Be now condemned, or diſordered quite.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>England tis certaine, thou haft long been ſuch,</l>
+               <l>With falſe proceeding, been abuſd too much.</l>
+               <l>Thy Laws which ſhould have ſeen thy life corrected,</l>
+               <l>Have eyther been corrupted, or neglected.</l>
+            </lg>
+            <lg>
+               <l>And therefore England thou muſt beare the blame,</l>
+               <l>If now thy Lawes be queſtioned for the ſame:</l>
+               <l>Where juſtice cannot ſee true ſentence paſt,</l>
+               <l>It will take vengeance, on that Iudge at laſt.</l>
+            </lg>
+            <lg>
+               <l>And you our Lawes, our former Lawes at leaſt,</l>
+               <l>Which could be both, in earneſt, and in jeſt.</l>
+               <l>Is it not juſtice, you ſhould for it pay,</l>
+               <l>That could be wreſted, almoſt any way?</l>
+            </lg>
+            <lg>
+               <l>But Lawes have patience, ſuffer this a while,</l>
+               <l>Untill that juſtice, ſcowres away the ſoile:</l>
+               <l>And it is hoped (riſing from the ſlaine)</l>
+               <l>That you new formed, ſhall keep Court againe.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:171204:11"/>
+            <head>Delinquents plotting.</head>
+            <lg>
+               <l>Come come Compliſſes, ſhall wee now obey,</l>
+               <l>Who were deſtind, and were borne to ſway?</l>
+               <l>Shall We be checkt, now challengd in our courſe,</l>
+               <l>Whoſe wills ſo lately were like lawes in force?</l>
+            </lg>
+            <lg>
+               <l>See we not how a giddie headed crew</l>
+               <l>Got with their betters into publick view;</l>
+               <l>Now take upon them as if cheife of note,</l>
+               <l>To chardge, examine, judge, condemne, and vote.</l>
+            </lg>
+            <lg>
+               <l>Prepoſterous people that were thus miſtooke,</l>
+               <l>What heart ingenious, can ſuch upſtarts brook?</l>
+               <l>If by our letters we were apprehended,</l>
+               <l>We might be ſilent had we ſo offended:</l>
+            </lg>
+            <lg>
+               <l>But as theſe upſtarts are but late of ſtanding,</l>
+               <l>So they we truſt ſhall not be long commanding;</l>
+               <l>We have we feare not water to ſuffice,</l>
+               <l>To quench ſuch ſparks as from meere aſhes riſe.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>It hath been noted evill will betide,</l>
+               <l>When Starrs that are held eminent doe glide,</l>
+               <l>But then moſt evill, or portending warrs,</l>
+               <l>When thoſe thus gliding are Malignant ſtarrs;</l>
+            </lg>
+            <lg>
+               <l>Some ſtarrs are fallen now, we may fatall call</l>
+               <l>Starrs too, from higher magnitudes let fall:</l>
+               <l>And if predictions ever did appeare</l>
+               <l>In true productions, it is doubtleſſe heere.</l>
+               <l>But you oh you that have been Lights above</l>
+               <l>Or ſhould have been, ſo, that declined prove,</l>
+               <l>Could you be, thinke you, from your ſtations throwne,</l>
+               <l>By a more feeble motion then your owne:</l>
+               <l>Can judgment in you be through will ſo clouded,</l>
+               <l>Or reaſon under boyling rancour ſhrowded?</l>
+               <l>Oh ſhew your wiſdoms, and confeſſe, as fit,</l>
+               <l>A power Allmightie in it, and ſubmit.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="10" facs="tcp:171204:12"/>
+            <head>The Papiſt doting.</head>
+            <lg>
+               <l>True Mother, and yet virgin pure abod,</l>
+               <l>Virgin of man, but mother of a God:</l>
+               <l>A God indeed, of Ieſus Chriſt thy Son,</l>
+               <l>We give thee glory for theſe hopes begun.</l>
+            </lg>
+            <lg>
+               <l>Wee heer in England amongſt people blind,</l>
+               <l>Have liv'd a long time to our griefe confin'd;</l>
+               <l>But through thy interceſſion now we hope</l>
+               <l>To finde a doore of more enlargement ope.</l>
+            </lg>
+            <lg>
+               <l>Tis true we long time have invok'd thy name,</l>
+               <l>And thou we doubt not haſt ſtill heard the ſame,</l>
+               <l>And haſt our ſuits preſented, but alaſſe</l>
+               <l>Our hour of pennance muſt run out the glaſſe.</l>
+               <l>But oh! bleſt virgin, Queen of heaven, and deare</l>
+               <l>To God the Father, ceaſe not to appeare</l>
+               <l>For our enlargment, we ſome comforts view;</l>
+               <l>But yet uncertayne, let us finde them true,</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Deluded Papiſts, that which you report</l>
+               <l>Upon our blindneſſe, may we not retort</l>
+               <l>Into your boſoms, and you juſtly payd,</l>
+               <l>Who thus are praying to the dead for ayd?</l>
+            </lg>
+            <lg>
+               <l>What helpe by ſcripture from ſuch can you finde?</l>
+               <l>But in the ſcriptures you may well be blinde,</l>
+               <l>When as the ſcriptures are conceald, tis ſure,</l>
+               <l>From moſt, that ſo your blindneſſe might endure:</l>
+            </lg>
+            <lg>
+               <l>You are poſſeſſed with a ſenceleſſe Story,</l>
+               <l>Which without ſcripture ſhewes a Purgatory,</l>
+               <l>Wherein the ſoules of very Saints muſt be,</l>
+               <l>Till by the ſuits of living men ſet free.</l>
+               <l>If thus the living for the dead muſt pray,</l>
+               <l>VVhat can you for the ſuits of dead men ſay?</l>
+               <l>Fond man, have you no better helpes to clayme,</l>
+            </lg>
+            <lg>
+               <l>Your hopes are weake then, and amiſſe doe ayme.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:171204:12"/>
+            <head>Malignants Raving.</head>
+            <lg>
+               <l>Oh mſerable world what times are here?</l>
+               <l>What ever praying, yet no eaſe appearc?</l>
+               <l>Our ſtates conſumd, our ſelves conſumd and loſt.</l>
+               <l>Beſides a ſea of guiltleſſe blood, 't hath coſt.</l>
+            </lg>
+            <lg>
+               <l>And all forſooth to ſatisfie ſome few,</l>
+               <l>Some, moſt preciſe, or moſt prodigious crew;</l>
+               <l>Or to ſpeake truly, might we ſpeake ſo farr,</l>
+               <l>To helpe to mayntaine a Rebellious warr.</l>
+            </lg>
+            <lg>
+               <l>Accurſt be thoſe occaſion'd our betraying,</l>
+               <l>Into this thraldome, what no end of praying?</l>
+               <l>And theſe perfidious Roundheads who ſo farr</l>
+               <l>Doe ſtrive to further ſuch unnaturall warr.</l>
+            </lg>
+            <lg>
+               <l>Is this Religion, you that ſeem ſo pure,</l>
+               <l>That kill in publike could be ſo demure?</l>
+               <l>Finde you occaſion now to vent that ſpleen,</l>
+               <l>VVhich in your boſomes boyld ſo long unſeen?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Perverſe Malignants, if I had the skill,</l>
+               <l>Had Art, as I have Inke within my quill,</l>
+               <l>I would ſo paint you, that you in this booke,</l>
+               <l>Should finde, and ſhould confeſſe your are miſtooke;</l>
+            </lg>
+            <lg>
+               <l>Miſtook indeed, could you elſe ſo miſtile,</l>
+               <l>Yea ſo miſcenſure, malice, and revile</l>
+               <l>Thoſe men whoſe lives, tis manifeſtly knowne,</l>
+               <l>Have been by odds, more vertuous then your owne?</l>
+            </lg>
+            <lg>
+               <l>More vertuous, true, tis that you doe envy,</l>
+               <l>Becauſe your vices are condemn'd thereby.</l>
+               <l>Earth blinded moles, but will you blame the day,</l>
+               <l>Becauſe it doth your deeds of night bewray.</l>
+            </lg>
+            <lg>
+               <l>Earth blinded, ſure this Epithite befits;</l>
+               <l>Tis only earth doth thus diſtract the wits.</l>
+               <l>In earthly things did you no dammage finde,</l>
+               <l>You would remaine as ſilent men, as blinde.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="12" facs="tcp:171204:13"/>
+            <head>Good Chriſtians craving.</head>
+            <lg>
+               <l>Sure Lord thy Iuſtice and thy Mercies ſtrive;</l>
+               <l>Thy mercy would have England kept alive.</l>
+               <l>Thy Iuſtice on the other ſide doth crye</l>
+               <l>England is guilty, guilty, let it dye.</l>
+            </lg>
+            <lg>
+               <l>Lord canſt thou be thus, as it were diſtreſt,</l>
+               <l>Becauſe that England will not ſeek for reſt.</l>
+               <l>And canſt thou England not lament thy fate,</l>
+               <l>When God himſelfe ſeems ſo Compaſſionate.</l>
+            </lg>
+            <lg>
+               <l>Oh England England let our ſuits make ſpeed,</l>
+               <l>That mercy may with Iuſtice beagreed;</l>
+               <l>For it is certaine till there be this peace</l>
+               <l>Above, our warrs will not belowe ſurceaſe.</l>
+            </lg>
+            <lg>
+               <l>But gratious God whoſe mercy doe appeare,</l>
+               <l>Then when thy Iuſtice ſeems to domincere;</l>
+               <l>Sith England is not of thee yet forgot,</l>
+               <l>Though thou doſt ſcourge it, yet conſume it not.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Heavens helpe you Chriſtians, you are well imployd</l>
+               <l>Helpe you to pray, for prayers will provide:</l>
+               <l>You are the ſouldiers in this time of need</l>
+               <l>That are moſt faithfull, and moſt like to ſpeed;</l>
+            </lg>
+            <lg>
+               <l>You are both voluntary, yea and preſt,</l>
+               <l>Oh ply your place, your Amunitions beſt.</l>
+               <l>You have Rams hornes, whoſe ſhrill Ecchoes ſhall</l>
+               <l>Make Rome to totter, Ierico to fall.</l>
+            </lg>
+            <lg>
+               <l>Then though your weapons be condemn das ſlight</l>
+               <l>Yet be not daunted, but maintaine your fight.</l>
+               <l>The noble Captaine in whoſe cauſe you ſtand,</l>
+               <l>Can where, and when, and how he liſt command;</l>
+               <l>Then though you dare not in your own ſtrength truſt</l>
+               <l>Yet call your Captaine, and your conquer muſt.</l>
+               <l>Fight then with comfort, doe not faile therein;</l>
+               <l>Pray without ceaſing, I ſhall ſay Ames.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="13" facs="tcp:171204:13"/>
+            <head>Our Sinnes provoking.</head>
+            <lg>
+               <l>Lord thou with England well mayſt be in ire,</l>
+               <l>Yea be to England a conſuming fire.</l>
+               <l>Its ſinns are greivous, very Sodome like;</l>
+               <l>Sure the are full Lord, it is time to ſtrike.</l>
+            </lg>
+            <lg>
+               <l>Fulneſſe of bread, much idleneſſe and pride,</l>
+               <l>Were Sodoms ſinns, but therefore Sodome died.</l>
+               <l>England in all theſe hath polluted been,</l>
+               <l>Shall England live then? Lord repay its ſinn.</l>
+               <l>Thou didſt indeed great Ninivy forbeare,</l>
+               <l>But it repented Ionah being there.</l>
+               <l>Thou haſt to England many Ionahs ſent,</l>
+               <l>But drowſie England doth not yet repent.</l>
+            </lg>
+            <lg>
+               <l>Nay England hath thy meſſengers abuſ'd,</l>
+               <l>Contemnd thy Meſſage, thy commands refuſ'd;</l>
+               <l>Profayn'd thy Sabboths; nay tis come to paſſe,</l>
+               <l>That England once more falls in love with Maſſe.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Thy accuſations ſinne, are ſure too juſt,</l>
+               <l>And what with ſorrow we acknowledg muſt,</l>
+               <l>That we have nothing to thy charge to lay,</l>
+               <l>But only this that thou didſt us betray.</l>
+            </lg>
+            <lg>
+               <l>Thou didſt allure us till the baite we took,</l>
+               <l>But now doſt wound us kill us with the hook:</l>
+               <l>Moſt ſubtle fiſher, but moſt ſimple wee,</l>
+               <l>Who in thy baites, could not our baine fereſee.</l>
+            </lg>
+            <lg>
+               <l>But England England let us be more wiſe,</l>
+               <l>See here the cauſe from whence our cares ariſe.</l>
+               <l>This is indeed that deadly darling foe,</l>
+               <l>Which both betrays us and conſumes us ſo;</l>
+               <l>This is that viper in our bowells bleeding,</l>
+               <l>Which whiles we ſuffer, on our ſoule lyes feeding:</l>
+               <l>To kill this bratt then, only can doe good,</l>
+               <l>To ſtop this vent, can only ſtaunch our blood.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="14" facs="tcp:171204:14"/>
+            <head>Gods Anger ſmoaking.</head>
+            <lg>
+               <l>Ah fooliſh England, hadſt thou but confeſt</l>
+               <l>Thy faults in time, thou mightſt have been at reſt:</l>
+               <l>But as thou long time haſt been luke-warme cold,</l>
+               <l>Thou haſt of late been deſperatly bold.</l>
+            </lg>
+            <lg>
+               <l>But though thou wouldſt not, yet did J lament thee,</l>
+               <l>And in my mercy many warnings ſent thee;</l>
+               <l>Beſides examples of my wrath for ſin,</l>
+               <l>VVhich pointing at thee, from all parts have been.</l>
+            </lg>
+            <lg>
+               <l>I put my ſpirit of fore-telling harmes</l>
+               <l>Upon thy teachers, who have ſought by charmes,</l>
+               <l>Both by entreaties, and by threats to win,</l>
+               <l>Or to awake thee from thy ſleep in ſin:</l>
+            </lg>
+            <lg>
+               <l>But thou haſt counted their reports untrue,</l>
+               <l>Falſe teachers therefore juſtly are thy due:</l>
+               <l>That through deluſions, as it is enſuing,</l>
+               <l>Thou mightſt be ſeal'd up to thy utter ruine.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Great God of Europe, God of England then,</l>
+               <l>Though we have ſet up other Gods therin;</l>
+               <l>Thou doſt moſt juſtly charge us, nay tis much</l>
+               <l>That thy forbearance, hath ſo long been ſuch.</l>
+            </lg>
+            <lg>
+               <l>Been ſuch indeed, we long have ſinnd, but ſtil</l>
+               <l>Thou ſeemdſt to winck, although we knew thy will.</l>
+               <l>We had thy word, ſtill ſounding in our eares,</l>
+               <l>Which though we loath'd ſtill, ſtill thou didſt for<g ref="char:EOLhyphen"/>bear's.</l>
+               <l>Nothing could urge thee, till we took in hand</l>
+               <l>To ſet up Dagon where thy Arke ſhould ſtand;</l>
+               <l>To ſet up Idolls in thy name and place,</l>
+               <l>And bowd before them to thy very face.</l>
+            </lg>
+            <lg>
+               <l>But this hath urgd thee once more to a flood,</l>
+               <l>At leaſt in England, and that too of blood;</l>
+               <l>But when this deludge, ſhall have waſht this land,</l>
+               <l>Lord reſt thy Arke heer, let not Dagon ſtand.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="15" facs="tcp:171204:14"/>
+            <head>The Sword proceeding.</head>
+            <lg>
+               <l>Proceed? tis certaine, how can I be ſtill?</l>
+               <l>When God himſelfe hath given mee charge to kill;</l>
+               <l>Can I, ſuppoſe you, in my Scabbard reſt,</l>
+               <l>And am by ſuch an awfull Captaine preſt?</l>
+            </lg>
+            <lg>
+               <l>But I have further ſummons in this thing;</l>
+               <l>England, I have a warrant from thy King,</l>
+               <l>From awfull, powerfull, angry Charles beſides,</l>
+               <l>Within whoſe keeping much command abides;</l>
+            </lg>
+            <lg>
+               <l>He is offended at the very heart,</l>
+               <l>And hath commanded I ſhould take his part.</l>
+               <l>Then England doe not blame me as unkinde,</l>
+               <l>Though I conſume thee, beeing thus enjoyn'd:</l>
+            </lg>
+            <lg>
+               <l>No no, but England, wouldſt thou have releaſe,</l>
+               <l>Thou muſt with God then, and thy King make peace;</l>
+               <l>For till they ſtay me by a new command</l>
+               <l>I muſt not, will not, cannot, ſtay my hand.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Thou ſword of England, thou haſt truly ſayd,</l>
+               <l>Thou canſt not ſpare us till thy hand be ſtayd,</l>
+               <l>That to accuſe thee were but to encreaſe</l>
+               <l>Thy fury rather then our feares releaſe;</l>
+            </lg>
+            <lg>
+               <l>But ſword of England though thou haſt a charge,</l>
+               <l>To drink in England, is the ſame ſo large,</l>
+               <l>And ſo unbounded, that it hath no tye,</l>
+               <l>But thou muſt drink heer till thou drink us drye?</l>
+               <l>If it be ſo, then England is accurſt;</l>
+               <l>But if ſome part ſword, may aſwage thy thirſt:</l>
+               <l>Then ſhew this Kingdome, ſince thou muſt have blood</l>
+               <l>Drink the corrupted, ſo thou mayſt doe good.</l>
+            </lg>
+            <lg>
+               <l>But oh thou God of England, who haſt ſent</l>
+               <l>This bloody weapon, for our puniſhment:</l>
+               <l>Alaſſe it oft, too often doth miſtake,</l>
+               <l>Then guide, or ſheath it, for thy mercies ſake.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="16" facs="tcp:171204:15"/>
+            <head>The Kingdome bleeding.</head>
+            <lg>
+               <l>My dlſſolation muſt be doubtleſſe neere,</l>
+               <l>All tokens of my fatall change appeare;</l>
+               <l>Bleeding and fainting, gaſping yea and dying,</l>
+               <l>If that ſome hand be not ſome help applying.</l>
+            </lg>
+            <lg>
+               <l>My late cheefe comfort in diſtreſſe my God,</l>
+               <l>In my diſtreſſe, now whipps me with his rod.</l>
+               <l>My Forts, my Holds, my Caſtles tumbling downe,</l>
+               <l>Nay more my King, endangering a Crowne.</l>
+               <l>My face looks pale, where beauty late ſat glowing,</l>
+               <l>My breſt are emtie whence late ſtreams were flowing,</l>
+               <l>My young men flaine, my virgins drownd in teares,</l>
+               <l>My ſongs of pleaſure turn'd to ſights and cares;</l>
+            </lg>
+            <lg>
+               <l>Where Muſick ſounded, Bells did ſing before,</l>
+               <l>Now Drums are beating hideous Cannons roare;</l>
+               <l>My friends and lovers doe amazed wring</l>
+               <l>There helpleſſe hands, my foes rejoyce and ſing.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Sad poſture ſure, a ſpectacle wherein</l>
+               <l>Wee may behold the image of our ſinn</l>
+               <l>Luſt hath conceaved, brought forth ſin, and loe</l>
+               <l>Sin in concluſion brings forth death and woe.</l>
+            </lg>
+            <lg>
+               <l>But bleeding England could we, it is true,</l>
+               <l>Have bled in teares for theſe our ſins, as due,</l>
+               <l>The ſtreames of blood which doe increaſe ſo high,</l>
+               <l>Had been by teares diſtll'd, in time put by.</l>
+            </lg>
+            <lg>
+               <l>Our Sins and want of ſorrow for the ſame,</l>
+               <l>Were then the cauſe from whence this deluge came.</l>
+               <l>Unhappie men that we could not deſery</l>
+               <l>Our want of bleeding, when our eyes were dry.</l>
+               <l>But England, England, is it yet too late?</l>
+               <l>Cannot our teares yet this ſame flood abate?</l>
+               <l>Oh! let us trie it, teares have ſtill done good,</l>
+               <l>In deepeſt dangers, why not then ſtanch blood?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="17" facs="tcp:171204:15"/>
+            <head>Our King turmoyling.</head>
+            <lg>
+               <l>Oh heavie, heavie what a weight I beare?</l>
+               <l>Are Royall Septers ſwaid with ſo much care?</l>
+               <l>Are theſe the Glories and delights that waite</l>
+               <l>Upon a Septer, priz'd at ſuch a height.</l>
+            </lg>
+            <lg>
+               <l>I am by ſacred providence a head,</l>
+               <l>But here lies that now which doth preſſe like lead</l>
+               <l>Thoſe tender members which from me take life,</l>
+               <l>Are with themſelves now, and with me at ſtrife.</l>
+            </lg>
+            <lg>
+               <l>My ſubjects who are ſo my members deare.</l>
+               <l>They ſome ſeduce me, others domineere;</l>
+               <l>And almoſt all my members goe about</l>
+               <l>To let each others deareſt blood run out.</l>
+               <l>Think you a head then can be free from aking,</l>
+               <l>Whoſe members, heart, vaines, are thus bleeding, breaking.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Deeare and dread Soveraigne, and our Sun belowe,</l>
+               <l>As from your highneſſe beames of brightneſſe flowe;</l>
+               <l>So beames of life to us that lie beneath,</l>
+               <l>And we without you very faintly breath.</l>
+            </lg>
+            <lg>
+               <l>If ſuch a ſunne may under ſhaddowes reſt,</l>
+               <l>Well may your ſubjects be in ſackcloath dreſt.</l>
+               <l>Unhappie ſtraite, then wherto you are brought;</l>
+               <l>Oh that we could lament it as we ought.</l>
+            </lg>
+            <lg>
+               <l>The ſillie ſubjects for a conqueſt ſtraine,</l>
+               <l>But ſtill you looſe, which ſide ſoever gaine;</l>
+               <l>And yet your Highneſſe doth not ſeet redreſt,</l>
+               <l>Becauſe uncertaine who adviſe you beſt.</l>
+               <l>Indeed dread Soveraigne men of deepeſt witt,</l>
+               <l>Moſt neere, moſt deare, moſt farr, may faile, but yet</l>
+               <l>It were a wonder, England never knew,</l>
+               <l>If Parliaments ſhould not to Kings be true.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:171204:16"/>
+            <head>Our Parliament toyling.</head>
+            <lg>
+               <l>Moſt gratious Soveraigne, under whoſe command,</l>
+               <l>Next under great Iehovahs charge, we ſtand.</l>
+               <l>Your grace hath put us, with a charge in truſt,</l>
+               <l>We then were Traytors, ſhould we not be juſt.</l>
+            </lg>
+            <lg>
+               <l>When we enjoyd your Royall preſence heere,</l>
+               <l>And you indeed were in your proper ſphere:</l>
+               <l>You then condemnd ſuch leſſer lights as had</l>
+               <l>Abuſd there ſtations, running retrograde.</l>
+            </lg>
+            <lg>
+               <l>But now thy preſence is from us withdrawne,</l>
+               <l>Thoſe ſatall ſtarrs upon your highneſſe fawne,</l>
+               <l>And would perſwade it too by warrs:</l>
+               <l>We are but commets, they your fixed ſtarrs;</l>
+            </lg>
+            <lg>
+               <l>But your conjunction with them doth declare,</l>
+               <l>By the effects produced what they are.</l>
+               <l>Your Kingdoms all to blood, and death ſubjected,</l>
+               <l>Which could not be ſo, were you well affected.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Great counſel you may well recount your cares,</l>
+               <l>And ſtead of inke, may ſum them up in teares;</l>
+               <l>That ſuch a Court ſhould in ſuch danger ſtand,</l>
+               <l>As hath been ſuch a Piller to the land:</l>
+            </lg>
+            <lg>
+               <l>Yet be not daunted, ſith the cauſe is good,</l>
+               <l>Vertue ſhines cleereſt, when tis moſt withſtood.</l>
+               <l>You were elected by a publike call.</l>
+               <l>What private aimes, can then your acts foreſtall?</l>
+            </lg>
+            <lg>
+               <l>Had you been guilty in ſome haynous matter,</l>
+               <l>You might like others, have been forc'd to flatter;</l>
+               <l>But Being guiltleſſe, feare not falſehood ſowne,</l>
+               <l>By ſuch as therby, would excuſe their owne.</l>
+               <l>Although our Soveraigne, may a while be held,</l>
+               <l>By falſe ſuggeſtions, Lies at length will yeeld;</l>
+               <l>And then the truth, ſhall be our Soveraigns guide,</l>
+               <l>To prove them droſſe, but you the gold that's tride.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="19" facs="tcp:171204:16"/>
+            <head>Religion Shaking.</head>
+            <lg>
+               <l>Well may J totter, as if feaver taken,</l>
+               <l>When thus my pillars are remov'd, and ſhaken;</l>
+               <l>Needs muſt I tremble, as moſt like to ſlide,</l>
+               <l>When my upholders, are ſo much envi'd,</l>
+            </lg>
+            <lg>
+               <l>The world indeed is with me at defiance,</l>
+               <l>Becauſe I with her muſt not have compliance,</l>
+               <l>Becauſe I may not with her greatneſſe doate.</l>
+               <l>Ten thouſand ſwords are drawne to cut my throate,</l>
+            </lg>
+            <lg>
+               <l>Beſides the many ſtabbs and wounds I take,</l>
+               <l>By ſuch as on me a meer cloake doe make:</l>
+               <l>Whiles others turne me to as many terrours,</l>
+               <l>By rending mein peeces into errours.</l>
+            </lg>
+            <lg>
+               <l>Poore, true Religion how am I diſtreſt,</l>
+               <l>The world growes troubled, if I ſeem to reſt.</l>
+               <l>Am I become a burden to the ſame,</l>
+               <l>Heav'n call me home then thither, whence I came.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Moſt deare Religion, and of Heaven by birth,</l>
+               <l>Canſt thou be perſecuted thus on earth.</l>
+               <l>Hath the old ſerpent not forgot his ſpleen,</l>
+               <l>Which in thy tender infancy was ſeen?</l>
+            </lg>
+            <lg>
+               <l>No, no, that ſerpent Sathan prince of Hell</l>
+               <l>Is now become a Dragon, and moſt fell;</l>
+               <l>And ſteed of ſpleen, perſues thee with a flood,</l>
+               <l>To overwhelme thee, and that too of blood.</l>
+            </lg>
+            <lg>
+               <l>But deare Religion heer lies thy repoſe,</l>
+               <l>The Earth ſhall drink this Ocean up, thy foes</l>
+               <l>And thou ſhalt finde, in times of moſt diſtreſſe,</l>
+               <l>A hideing place, though in the wilderneſſe.</l>
+            </lg>
+            <lg>
+               <l>Then deare Religion, if that England may,</l>
+               <l>Not once againe be happie in thy ſtay:</l>
+               <l>Oh yet diſpaire not, God will ſure prepare</l>
+               <l>A biding for thee, though ſome other where.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="20" facs="tcp:171204:17"/>
+            <head>Our Lawes now quaking.</head>
+            <lg>
+               <l>Tis then no marvell, ſure you need not wonder</l>
+               <l>To ſee the Kingdome thus lie ſighing under</l>
+               <l>So much diſtemper, and diſtreſſe when we</l>
+               <l>That ſhould conforme all, thus confounded be.</l>
+            </lg>
+            <lg>
+               <l>Needs muſt the building of a ſtate decay,</l>
+               <l>When thus you take its principalls away.</l>
+               <l>While ſuch as gloried in our happie ſtate,</l>
+               <l>Are now bewayling there unhappie fate.</l>
+            </lg>
+            <lg>
+               <l>Late active ſervants we lament to ſee</l>
+               <l>How ſlowe you move now, and how ſadd you bee;</l>
+               <l>Your heavie lookes doe cypher your diſtreſſe,</l>
+               <l>Our ſorrowes for you can be ſure no leſſe.</l>
+            </lg>
+            <lg>
+               <l>But if our Courts and caſes now adjourn'd,</l>
+               <l>Shall into courſe be once againe return'd;</l>
+               <l>Wee ſhall we doubt not prove our actions true,</l>
+               <l>And finde in fine, both coſt and dammage due.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>You upright lawes of either Church or ſtate,</l>
+               <l>If there be any thus paſſionate?</l>
+               <l>You have no reaſon to complaine I truſt,</l>
+               <l>It is not you are blam'd, but the unjuſt:</l>
+            </lg>
+            <lg>
+               <l>The courſe it may be, may awhile be ſtaid,</l>
+               <l>But upon meer neceſſity delaid;</l>
+               <l>And if once opportunity befor't,</l>
+               <l>You ſhall have freedome and againe keep Court.</l>
+            </lg>
+            <lg>
+               <l>But if ſome upſtart evill Courts enjoyn'd,</l>
+               <l>Be unto a perpetuall ſleep confin'd.</l>
+               <l>It is but Iuſtice, nor were you to grutch,</l>
+               <l>If many of your ſervants ſleep as much;</l>
+            </lg>
+            <lg>
+               <l>It was indeed your officers that long</l>
+               <l>Have made you thought corrupted, done you wrong,</l>
+               <l>Nor is it law but lawyers, that are ment,</l>
+               <l>When men deluded bitter language vent.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="21" facs="tcp:171204:17"/>
+            <head>Delinquents Plotting.</head>
+            <lg>
+               <l>Feare not Complices we ſhall have ſucceſſe,</l>
+               <l>All happle tokens promiſe us no leſte.</l>
+               <l>Our ſunn is riſen in our parts, which way</l>
+               <l>Can we then feare but we ſhall have the day?</l>
+            </lg>
+            <lg>
+               <l>Nay more our Sun doth in has ſtrength appeare,</l>
+               <l>And is attractive both from farr and neere,</l>
+               <l>Our Moone beſides is at her full you ſee;</l>
+               <l>What ſadd then, or what ſuddayne change can bee?</l>
+            </lg>
+            <lg>
+               <l>Let us not then be idle, our deſignes</l>
+               <l>Can only proſper while our Sun thus ſhines;</l>
+               <l>If any objects ſeek to interpoſe,</l>
+               <l>Let us perſwade our Sun they are his foes;</l>
+            </lg>
+            <lg>
+               <l>This is the project let it be maintain'd,</l>
+               <l>We have already ſo much vantage gaind</l>
+               <l>By this invention, as indeed imparts,</l>
+               <l>That we beſides this, need no other Arts.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Delinquents? No you doe defie the name,</l>
+               <l>Indeed it may be you deny the ſame:</l>
+               <l>But ſith our ſtates diſcover you uncleere;</l>
+               <l>How dare you then before our Sun appeare?</l>
+            </lg>
+            <lg>
+               <l>But this doth ſhew your want of wiſdome moſt</l>
+               <l>That you can upon meer confuſion boaſt,</l>
+               <l>And promiſe to your ſelves a world of bliſſe,</l>
+               <l>From ſignes that doe decypher all's amiſſe.</l>
+            </lg>
+            <lg>
+               <l>Our ſun is riſen in your parts we ſay,</l>
+               <l>And therefore doubtleſs you muſt have the day:</l>
+               <l>Becauſe our Sun is riſen in the weſt,</l>
+               <l>Which is a wonder; are you thus poſſeſt</l>
+               <l>Moſt fond Delinquents? this doth either threat,</l>
+               <l>That Englands darkneſs ſhall indeed be great</l>
+               <l>For ſtill the Eaſt hath ſhewn our day begun;</l>
+               <l>And if that failes us ſure our day is done.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="22" facs="tcp:171204:18"/>
+            <head>The Papiſt doting.</head>
+            <lg>
+               <l>Sure this befits us, heer we comfort finde,</l>
+               <l>If theſe delinquents may but have their minde?</l>
+               <l>So we aſſiſt them now, to worke it out,</l>
+               <l>They will conſent as farr to us no doubt.</l>
+            </lg>
+            <lg>
+               <l>Lets not be ſparing then in this deſigne,</l>
+               <l>But lets endeavour willingly to joyne,</l>
+               <l>And freely venter what we have in ſtore;</l>
+               <l>And if that faile us, let us ſend for more.</l>
+            </lg>
+            <lg>
+               <l>Our holy Father, from our Mother Rome,</l>
+               <l>Can ſend Comiſſion, that releefe ſhall come;</l>
+               <l>Yea from all parts, upon the earth, that lyes</l>
+               <l>Within his confines, which will ſure ſuffice.</l>
+            </lg>
+            <lg>
+               <l>We from experience heer have comfort growing</l>
+               <l>By ayde already, from all quarters flowing;</l>
+               <l>Eſpecially our brethren from the weſt,</l>
+               <l>Which ſtill com ſwimming, in bright armour dreſt.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Preſumptuous Papiſt, can you boaſt heerin,</l>
+               <l>Indeed you alwayes have deluded been,</l>
+               <l>And are ſo ſtrongly Catholike in will,</l>
+               <l>You think Religion, to remayne ſo ſtill.</l>
+            </lg>
+            <lg>
+               <l>Could you a building elſe ſuppoſe to reare,</l>
+               <l>Upon ſuch grownd-works as Delinquents are.</l>
+               <l>To ſee Romes Scepter in our Realme beare ſway,</l>
+               <l>From hopes of ſuch uncertaine helps as they.</l>
+            </lg>
+            <lg>
+               <l>Indeed your ghoſtly Father in his ſeate,</l>
+               <l>Hath guld a long time, by deluſions great;</l>
+               <l>And in this Kingdome hath ere now appear'd</l>
+               <l>A God, though like a tyrant domineer'd;</l>
+            </lg>
+            <lg>
+               <l>But his deceits, and Tyranny I truſt,</l>
+               <l>Have heer been prov'd ſo cruell and unjuſt,</l>
+               <l>That Charles, who juſtly doth enjoy our Crowne,</l>
+               <l>Will never let the Miter ſway it downe.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="23" facs="tcp:171204:18"/>
+            <head>Malignants Raving.</head>
+            <lg>
+               <l>Prodigious miſeryes! is this the day,</l>
+               <l>For which we longd ſo long, and did ſo pray;</l>
+               <l>Are thus our burdens, where we were oppreſt,</l>
+               <l>Our wrongs, and woes by Parliament redreſt.</l>
+            </lg>
+            <lg>
+               <l>Unhappie Parliament, it muſt be ſoe,</l>
+               <l>When you releaſe not, but increaſe our woe.</l>
+               <l>You talke of eaſe, but wee feel greater paines,</l>
+               <l>You promiſe freedome, but we finde them chaines.</l>
+            </lg>
+            <lg>
+               <l>You cannot be contented with our treaſure,</l>
+               <l>And threatens too with priſons at your pleaſure,</l>
+               <l>But you will have our lives too in your hand,</l>
+               <l>To ſell away like bond-ſlaves at command.</l>
+            </lg>
+            <lg>
+               <l>You force us to a fight, wherein each brother,</l>
+               <l>Muſt upon paine of hanging, kill each other,</l>
+               <l>And ruinate the land, yet through pretence,</l>
+               <l>So to procure our Kings, and lands defence.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Monſtrous productions, in our dayes indeed;</l>
+               <l>And you Malignants, that abortive ſeed,</l>
+               <l>Could you elſe thus like vipers kill, or worſe;</l>
+               <l>Your faithfull, painefull, tender hearted nurſe?</l>
+            </lg>
+            <lg>
+               <l>No, Kings and Queenes, are nurſes you will ſay,</l>
+               <l>And ſo doe I, but this hath been there way,</l>
+               <l>A Parliament hath ſtill, determin'd how:</l>
+               <l>And ſo our Soveraigne hath given order now.</l>
+            </lg>
+            <lg>
+               <l>But low our ſinns have ſold us for a ſpoile,</l>
+               <l>And now our King is taken in the wile.</l>
+               <l>Will you then count our Parliament unjuſt,</l>
+               <l>Becauſe they ſtand out to maintaine their truſt?</l>
+               <l>Deluded and Malignant ſpirits right,</l>
+               <l>Both againſt vertue, and your ſelves to fight.</l>
+               <l>You ſay this Court is cauſer of your ruine,</l>
+               <l>When tis your ſinns, that are you thus perſuing.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="24" facs="tcp:171204:19"/>
+            <head>Good Chriſtians craving.</head>
+            <lg>
+               <l>Great God who didſt good Hezekiah heare,</l>
+               <l>When Rabſhekah was railing without feare:</l>
+               <l>Though ſome againſt thy juſt corrections ſpurne,</l>
+               <l>Yet heare their ſighs whoſe bowells truly yerne:</l>
+            </lg>
+            <lg>
+               <l>Lord thou maiſt juſtly make our judgments worſe</l>
+               <l>When, though ſome pray, yet many more doe curſe,</l>
+               <l>And call for vengeance with a voice more high,</l>
+               <l>Then thy poore ſervants can for mercy cry.</l>
+            </lg>
+            <lg>
+               <l>This Lord, we feare, yea finde it ſo indeed,</l>
+               <l>Or elſe thy ſword ſure ſhould not thus proceed,</l>
+               <l>Wert thou not more and more incenſ'd by ſome.</l>
+               <l>Thy ſervants ſuits could not ſtill emptie come.</l>
+            </lg>
+            <lg>
+               <l>But Lord, thou canſt both eaſe thy ſervants groans,</l>
+               <l>And canſt reſtraine the wickeds rage at once,</l>
+               <l>Lord doe thy mercy, and thy ſtrength make cleer,</l>
+               <l>Rebuke the wicked, ſhew thy Saints are dear.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>God ſpeed you Brother, proſper your deſigne,</l>
+               <l>And hold your hands up, they may not decline.</l>
+               <l>You act the poſture, which got once the field</l>
+               <l>When Iſrael made Amalick to yeeld.</l>
+            </lg>
+            <lg>
+               <l>Some boaſt how keyes given Peter can prevaile,</l>
+               <l>But you have keyes, ſet Peter out of Gaile.</l>
+               <l>Oh turne thoſe keyes then, make the bolts to flie,</l>
+               <l>Where Pauls, and Peters, now in durance lie.</l>
+            </lg>
+            <lg>
+               <l>You have the balſom, let it out be pour'd,</l>
+               <l>By which King Hezekiah was reſtor'd.</l>
+               <l>You have the only ſucceſſe in your hand,</l>
+               <l>Oh! offer it up then, it may heale the land:</l>
+            </lg>
+            <lg>
+               <l>Nay you have valiant Ioſhua's command,</l>
+               <l>Where at the ſun did both returne, and ſtand,</l>
+               <l>Our Sun's declin'd but promiſeth no morning,</l>
+               <l>Oh! that you could intreat us his returning.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="25" facs="tcp:171204:19"/>
+            <head>Our Sinnes provoking.</head>
+            <lg>
+               <l>Unhappie England, that too late begins,</l>
+               <l>To ſee thy follies, and to blame thy ſinns.</l>
+               <l>Canſt thou accuſe us now thou feelſt it ſmart?</l>
+               <l>Who haſt untill now, hug'd us at the heart.</l>
+            </lg>
+            <lg>
+               <l>Lord judg between us, we are but the ſeed,</l>
+               <l>This land hath long ſowen, and ſtill ſowes indeed,</l>
+               <l>Shall we be blam'd then, as in all the fault;</l>
+               <l>Lord, this ſhewes plainly, England ſtill doth hault.</l>
+            </lg>
+            <lg>
+               <l>Nay Lord, this Kingdome deales with the as ill;</l>
+               <l>Thou long haſt tild it, but tis barren ſtill,</l>
+               <l>Or rather more unnaturall and groſſe;</l>
+               <l>Thou ſowſt good ſeed, but it doth bring forth droſſe</l>
+            </lg>
+            <lg>
+               <l>Canſt thou then, canſt thou be indulgent yet,</l>
+               <l>To ſuch a land, too, as doth all forget?</l>
+               <l>Under thy mercies fruitleſſe, and ungrate,</l>
+               <l>Under thy judgments, but equivocate.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Sin wounded England, let us ſee our ſhame;</l>
+               <l>Wounded, deep wounded, but who did the ſame,</l>
+               <l>Who were the bloody authors of this deed?</l>
+               <l>Here, here, we quarrell, here we cannot read.</l>
+            </lg>
+            <lg>
+               <l>Surely not any can this blame refuſe,</l>
+               <l>But yet we one another doe accuſe;</l>
+               <l>Some few, indeed confeſſe it was our ſin,</l>
+               <l>But few, or none, will ſee our ſelves therein.</l>
+            </lg>
+            <lg>
+               <l>Oh fooliſh England, can we we feel it ſmart,</l>
+               <l>And can confeſſe too, tis our due deſert?</l>
+               <l>Yea beg for eaſe, would faine have healing wrought,</l>
+               <l>Yet will will not lay the plaiſter where it ought.</l>
+            </lg>
+            <lg>
+               <l>We would have eaſe and peace, but will not ſee</l>
+               <l>Our hearts within us, out of order bee;</l>
+               <l>And they're the wounds, which muſt be ſearch'd, be<g ref="char:EOLhyphen"/>fore</l>
+               <l>We can expect, the healing of our fore.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="26" facs="tcp:171204:20"/>
+            <head>Gods Anger ſmoaking.</head>
+            <lg>
+               <l>England thou haſt held ſuch tidings vaine,</l>
+               <l>As told thy ſinns did at my throwne complaine;</l>
+               <l>But now thou ſeeſt they have aſſum'd that place,</l>
+               <l>Yea dare accuſe thee to thy very face.</l>
+            </lg>
+            <lg>
+               <l>Could not my mercies melt thee into teares?</l>
+               <l>Nor yet my threatning, ſink into thy eares?</l>
+               <l>Nor ought awake the, till thou heardſt the drum,</l>
+               <l>Which beats thy executioner is come.</l>
+            </lg>
+            <lg>
+               <l>Nay, yet thou doſt not, as thou ſhouldſt doe, quake,</l>
+               <l>Thou doſt but ſlumber, art not yet awake;</l>
+               <l>But under ſuch a letergie doſt lie,</l>
+               <l>That it is juſtice, thou ſhouldſt ſleeping die.</l>
+            </lg>
+            <lg>
+               <l>Art ſtill unfruitfull underneath my word?</l>
+               <l>Art ſtill unhumbled, nuderneath my ſword?</l>
+               <l>Art ſtill revolting? England, then I muſt</l>
+               <l>Be ſtill in judgments, or I were unjuſt.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Iuſt God, and powerfull, gracious too with all,</l>
+               <l>Or elſe weak mankinds comfort, were but ſmall.</l>
+               <l>Were not thy juſtice, and thy ſtrength at one</l>
+               <l>With thy compaſſions, Mankind were undone.</l>
+            </lg>
+            <lg>
+               <l>But, Lord, thou gracious ſimpothy ſing haſt,</l>
+               <l>Thy juſtice, of thy mercies, hath a taſt,</l>
+               <l>And juſtice, doubtleſſe, never is prevailing,</l>
+               <l>But mercy ſtands by, at the leaſt, bewailing.</l>
+            </lg>
+            <lg>
+               <l>Then drowſie, drowſie England, are we ſleeping,</l>
+               <l>When mercy for us ſtands by juſtice weeping?</l>
+               <l>Can we be careleſſe, teareleſſe here below?</l>
+               <l>When heav'ns do thus bewaile our overthrow?</l>
+            </lg>
+            <lg>
+               <l>But gracious Father, whiles thy wrath is burning,</l>
+               <l>Sith thus thy mercies, over us are yerning;</l>
+               <l>Mercy and juſtice, doth in thee combine,</l>
+               <l>Oh! let thy mercies, in thy juſtice ſhine.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="27" facs="tcp:171204:20"/>
+            <head>The Sword proceeding.</head>
+            <lg>
+               <l>England, as I have licence from thy God.</l>
+               <l>And as thy King commands me as his tod,</l>
+               <l>So I have likewiſe, a commiſſion ſent,</l>
+               <l>For my aſſiſtance, from your Parliament;</l>
+            </lg>
+            <lg>
+               <l>They writ unto me they are ſore diſtreſt,</l>
+               <l>And that thou England, are ſo much opreſt,</l>
+               <l>That if I be not ſpeedily perſuing</l>
+               <l>To thy aſſiſtance, all will come to ruine;</l>
+            </lg>
+            <lg>
+               <l>Your goods, your lands, your liberries, your King,</l>
+               <l>Nay, your Religion, a moſt pretious thing,</l>
+               <l>Are all in danger, ready to be loſt,</l>
+               <l>Or into gulfes, of deep confuſion toſt.</l>
+            </lg>
+            <lg>
+               <l>England, thou wilt not blame me then, I hope,</l>
+               <l>When I am drawn forth, by this threefold rope;</l>
+               <l>Canſt thou account that ill done at my hands,</l>
+               <l>Which God, and King, and Parliament commands?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Sword, thy Commiſſion it is large indeed,</l>
+               <l>Needs muſt thou wound, and needs muſt England</l>
+               <l>Our God, our King our Parliament commanding;</l>
+               <l>Alaſſe poore England, what can be withſtanding?</l>
+            </lg>
+            <lg>
+               <l>England, our ſinns have forc'd our God to wrath,</l>
+               <l>Our God, he drawne his ſword of vengeance hath,</l>
+               <l>His ſword is falln into our Soveraigns hand,</l>
+               <l>Yea meets moreover, with a third command.</l>
+            </lg>
+            <lg>
+               <l>England, then let us, let us ſee our thrall,</l>
+               <l>Our ſinns are the Originall of all,</l>
+               <l>Our ſins have made our God to wrath inclin'd,</l>
+               <l>And God hath all our miſeries injoyn'd.</l>
+            </lg>
+            <lg>
+               <l>Let us no longer then ſuch ſhifts invent,</l>
+               <l>To charge our King, or blame our Parliament:</l>
+               <l>But let us wiſely, lay the blame on thoſe</l>
+               <l>Our deadly ſinns, the cauſe of all our woes.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="28" facs="tcp:171204:21"/>
+            <head>Our Kingdom bleeding.</head>
+            <lg>
+               <l>Alaſſe, I bleed, but bleeding doth no good,</l>
+               <l>Becauſe I doe not bleed in teares, but blood;</l>
+               <l>Yet I muſt bleed, the wounds are made ſo deep,</l>
+               <l>And teares denyd me, J in blood muſt weep.</l>
+            </lg>
+            <lg>
+               <l>VVell may I bleed, although I bleed in vaine,</l>
+               <l>To ſee ſo many valiant ſouldiers ſlain;</l>
+               <l>To ſee my lawes and freedoms, at this ſtrait;</l>
+               <l>To ſee and feel my dangers, at this height:</l>
+            </lg>
+            <lg>
+               <l>Nay more, my King diſtreſſed, by betraying;</l>
+               <l>His ſubjects fore diſtracted in obeying;</l>
+               <l>Yea thoſe his ſubjects, which I finde moſt loyall,</l>
+               <l>Proclaimed Rebells, under the name Royall:</l>
+            </lg>
+            <lg>
+               <l>Beſides Religion, that doth lye at ſtake;</l>
+               <l>Muſt I not bleed, to ſee Religion ſhake?</l>
+               <l>Dear, true Religion, without which no doubt,</l>
+               <l>My deareſt blood, had long ere now run out.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>The tender grape, which without preſſing flowes,</l>
+               <l>Is like the child, obeying without blowes.</l>
+               <l>But England, this thy bleeding for thy ſin,</l>
+               <l>Cannot commend thee, having forced bin.</l>
+            </lg>
+            <lg>
+               <l>Commend thee? no, but yet, it mend the might,</l>
+               <l>Couldſt thou at length, yet make uſe of it right.</l>
+               <l>The blood of children, which the rod doth draw,</l>
+               <l>Makes ſome for ever, ſtand the more in awe.</l>
+            </lg>
+            <lg>
+               <l>Bleeding ſometimes, doth life it ſelfe preſerve,</l>
+               <l>In ſome diſeaſes, nothing elſe will ſerve;</l>
+               <l>He is moſt skillfull, that thy vaines hath ſtrook,</l>
+               <l>And in thy bleeding doth for healing look.</l>
+            </lg>
+            <lg>
+               <l>Then doubtleſſe, till he, who hath let thee blood</l>
+               <l>Doth ſee thy bleeding, doth doe thee ſome good,</l>
+               <l>He will not ſtanch it; England then take heed;</l>
+               <l>Thou muſt grow better, or elſe dying bleed.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="29" facs="tcp:171204:21"/>
+            <head>Our King turmoyling.</head>
+            <lg>
+               <l>Diſtreſſed Charles! can any heart conceit,</l>
+               <l>
+                  <hi>A</hi> King can reſt, and pent in ſuch a ſtrait?</l>
+               <l>Our rights, our Realms, our ſubjects, Crown, and all;</l>
+               <l>Some mourne, ſome torne, ſome totter, like to fall.</l>
+            </lg>
+            <lg>
+               <l>But that which moſt our Royall heart doth break,</l>
+               <l>Is that our ſubjects, ſhould us ſo miſtake,</l>
+               <l>As to imagine, we have an intent,</l>
+               <l>To change Religion, which we never ment.</l>
+            </lg>
+            <lg>
+               <l>Cannot the word be taken of our grace?</l>
+               <l>Nor Proteſtations, of a King take place?</l>
+               <l>Hard hearted people, or with lyes poſſeſt,</l>
+               <l>To be thus doubtfull, where we faithfull reſt.</l>
+            </lg>
+            <lg>
+               <l>But know ſond ſubjects, they that doe perſwade</l>
+               <l>That we regard not ſuch a promiſe made,</l>
+               <l>Doe but poſſeſſe you with deceits unknon,</l>
+               <l>So to erect ſome project of their owne.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Dread Soveraign, when the Sunns Eclipſd, we know</l>
+               <l>The world doth ſuffer, darkneſſe comes below.</l>
+               <l>Can then you ſuffer, Englands Sun, and we,</l>
+               <l>Your filly ſubjects not diſtracted be?</l>
+            </lg>
+            <lg>
+               <l>Great King, we cannot, nay beleeve that thoſe,</l>
+               <l>VVhom you, miſguided, doe miſſe-judg your foes,</l>
+               <l>More ſorrow for you, reckon you more deare,</l>
+               <l>And pray more for you, then ſome draws more near.</l>
+            </lg>
+            <lg>
+               <l>Only, deare ſoveraigne, that which is your care,</l>
+               <l>That is, indeed, your loyall ſubjects feare,</l>
+               <l>Change of Religion, only this; then ſee,</l>
+               <l>Are thoſe most Rebells, that thus carefull be?</l>
+            </lg>
+            <lg>
+               <l>Oh that your highneſſe, could this cloud diſpell,</l>
+               <l>Indeed your greatneſſe hath protested well,</l>
+               <l>But men Religious, do ſo deeply groan,</l>
+               <l>That ſome ſuſpect, you bear not rule alone.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="30" facs="tcp:171204:22"/>
+            <head>Our Parliament toyling.</head>
+            <lg>
+               <l>Oh froward people, or unhappie we,</l>
+               <l>That from you, can thus ill rewarded be,</l>
+               <l>We ſeek your ſafty, as our ſoules to ſave,</l>
+               <l>And yet ſome murmur, ſome miſtruſt, ſome rave.</l>
+            </lg>
+            <lg>
+               <l>And dare accuſe us, as the cauſe of all</l>
+               <l>Theſe warrs, theſe judgments, death and thrall,</l>
+               <l>For had we, ſay they, curb'd Ambitious will,</l>
+               <l>Theſe hidious warrs, had long ere now been ſtill.</l>
+            </lg>
+            <lg>
+               <l>But, how ſoever, thus your ſpleen to vent,</l>
+               <l>You dare to utter. what we never ment;</l>
+               <l>Yet God, our conſcience, and good chriſtians know</l>
+               <l>You pay us hatred, for the love you owe;</l>
+            </lg>
+            <lg>
+               <l>Which God we truſt, will make ere long be ſeen:</l>
+               <l>But in the meane time, though you vent your ſpleen,</l>
+               <l>It ſhall not dant us, in our charge in truſt,</l>
+               <l>Having ſuch witneſſe, that our cauſe is juſt.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Moſt Noble Champions, valiant Captaines ſure,</l>
+               <l>Who in ſuch onſets, thus reſolv'd indure:</l>
+               <l>Who would not freely venture, on that ſide,</l>
+               <l>Where the Commanders, are thus faithfull try'd?</l>
+            </lg>
+            <lg>
+               <l>Could the reproaches, of malignant ſpight,</l>
+               <l>Could multitudes, againſt a few to fight;</l>
+               <l>Threats, ſmiles, or loſſes, have your minds perverted,</l>
+               <l>You had, like ſome, this caſe ere now deſerted.</l>
+            </lg>
+            <lg>
+               <l>But none of theſe, nor ought that might reſiſt,</l>
+               <l>Could either draw, or drive you to deſiſt,</l>
+               <l>Or yeeld to ſuch conditions as you thought</l>
+               <l>Would by ſuch yeelding, be too decrely bought.</l>
+               <l>But ſome dare ſay, you fight againſt your King,</l>
+               <l>But J dare ſay then, you lament the thing:</l>
+               <l>But can they juſtly ſay ſo in this caſe</l>
+               <l>When you fight for him, to redeeme his grace?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="31" facs="tcp:171204:22"/>
+            <head>Religion Shaking.</head>
+            <lg>
+               <l>Oh! England, England wilt thou let me goe?</l>
+               <l>Canſt thou be blinded in thy jugdment ſoe?</l>
+               <l>Let me? alaſſe, inſtead of all remorſe,</l>
+               <l>Thou art in Armes, to drive me out by force.</l>
+            </lg>
+            <lg>
+               <l>Thou haſt already into corners pent me,</l>
+               <l>As if thou haſt a full commiſſion ſent thee,</l>
+               <l>From ſome infernall powers, would domineer,</l>
+               <l>To worke my utter extirpation heer.</l>
+            </lg>
+            <lg>
+               <l>But England, England, ope thy eies more wide,</l>
+               <l>I may have worth, thou haſt not yet deſcry'd;</l>
+               <l>Thy God is with me, I am his, he mine,</l>
+               <l>Where I goe, he goes, we in one doe joyne.</l>
+            </lg>
+            <lg>
+               <l>Wilt thou then England, drive me out indeed,</l>
+               <l>Becauſe that Hell, or Rome, hath ſo decreed?</l>
+               <l>When my departure, ſhall thy ſelfe betray,</l>
+               <l>And drive (beſides) thy God of peace away?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Deare, deare Religion, from whoſe breaſts, indeed,</l>
+               <l>We draw the milke, which ſuccours, moſt at need:</l>
+               <l>Succours in want, in war, in ſickneſſe, thrall,</l>
+               <l>In death, in judgment, ſuccours ſoule and all.</l>
+            </lg>
+            <lg>
+               <l>Can we that have ſo many yeares been nouriſh'd,</l>
+               <l>And in thy Armes ſo tenderly been cheriſh'd,</l>
+               <l>Prove now abortives, baſtard like, or worſe,</l>
+               <l>And ſeek to banniſh, ſuch a tender nurſe?</l>
+            </lg>
+            <lg>
+               <l>England, then England, this no doubt hath bin</l>
+               <l>A mightie aggravation of thy ſin,</l>
+               <l>That this true Mother, many yeares unknowne,</l>
+               <l>Hath ſuckled Infants, which were not her owne.</l>
+            </lg>
+            <lg>
+               <l>Were we not falſe borne, or begot indeed,</l>
+               <l>But of this Mother, true deſcended ſeed,</l>
+               <l>Could we become ſo cruell, as to ſee,</l>
+               <l>Our Mother banniſh'd, ſure it could not be?</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="32" facs="tcp:171204:23"/>
+            <head>Our Lawes now quaking.</head>
+            <lg>
+               <l>Sure we muſt periſh; more then ſuffer now,</l>
+               <l>What elſe in reaſon, can you hence allow?</l>
+               <l>When ſuch as on our ſafetie, ſhould agree,</l>
+               <l>Betwixt themſelves, now, at moſt diſcord bee.</l>
+            </lg>
+            <lg>
+               <l>Thoſe fountains, where we had our iſſues granted,</l>
+               <l>Are now ſo ſeald up, nothing can be vented;</l>
+               <l>Or if ſome little courrents, breake away,</l>
+               <l>They run too weakly, to beare wonted ſway.</l>
+            </lg>
+            <lg>
+               <l>Oh then you Fountaines, where ſhould we have vent,</l>
+               <l>Give us more vigor, by your joynt conſent;</l>
+               <l>For if you keep us thus confind, confuſion</l>
+               <l>Is likely to be our, and your concluſion.</l>
+            </lg>
+            <lg>
+               <l>But this were dreadfull, you that are the eie,</l>
+               <l>To ſee all order'd, under lock and key;</l>
+               <l>And we your keepers, to make all things faſt,</l>
+               <l>Should, through confuſion, looſe our ſelves at laſt.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>You lawes thus quaking, which decyphers ſure,</l>
+               <l>You have been faulty, how can you endure,</l>
+               <l>To ſee your chang now? and within the ſame,</l>
+               <l>The heavie charge is laid unto your ſhame?</l>
+            </lg>
+            <lg>
+               <l>It is reported you have winckd at ſin,</l>
+               <l>And in your judgment, oft corrupted bin;</l>
+               <l>That gold hath been ſo pretious in your fight,</l>
+               <l>That judgment dazel'd, where it gliſter'd bright.</l>
+            </lg>
+            <lg>
+               <l>That poore mens caſes, could not pleaſe your care,</l>
+               <l>Becauſe your wiſdoms, did their purſes feare,</l>
+               <l>That either favour, fees, or force thereby,</l>
+               <l>Hath made you conſtant in inconſtancy.</l>
+            </lg>
+            <lg>
+               <l>Nay tis reported, you have baniſhd ſome,</l>
+               <l>And courted more, becauſe preciſe become.</l>
+               <l>Then in your conſcience you muſt needs confeſſe,</l>
+               <l>Tis time in conſcience, you ſhould have redreſſe.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="33" facs="tcp:171204:23"/>
+            <head>Delinquents Plotting.</head>
+            <lg>
+               <l>Up Noble ſpirits, let us now be ſtirring,</l>
+               <l>Let us not venture all yet by demurring;</l>
+               <l>But let us ſtrike now, whiles the iron's hot,</l>
+               <l>For now, or never muſt the day be got:</l>
+            </lg>
+            <lg>
+               <l>Our force increaſeth, and doth ſtill prevaile,</l>
+               <l>Our foes grow weaker, and doe daily faile,</l>
+               <l>We have already, ſuch on un-ſet given then,</l>
+               <l>As hath, you ſee it, into corners driven them:</l>
+            </lg>
+            <lg>
+               <l>Indeed they dote of comfort in the Scots,</l>
+               <l>But we, we feare not, ſhall prevent their plots,</l>
+               <l>And if they faile them, as they doe begin,</l>
+               <l>They will grow quickly miſerable men:</l>
+            </lg>
+            <lg>
+               <l>The Scots have promiſd (toprevent this thing)</l>
+               <l>That they will never goe againſt their King,;</l>
+               <l>But, though ſome few may this their faith deny;</l>
+               <l>The greater part, may put the leſſer by.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Hold, hold, Delinquents, boaſt not you too faſt,</l>
+               <l>You doe conclude, as if all feare were paſt,</l>
+               <l>And you already had the day, no leſſe,</l>
+               <l>Delinquents uſe not to have ſuch ſucceſſe.</l>
+            </lg>
+            <lg>
+               <l>But, to ſpeake truly, as indeed you ought,</l>
+               <l>What you have gaind yet, is but dearly bought;</l>
+               <l>And though of conqueſt, you can boaſt it out,</l>
+               <l>To gull the ſimple, it is yet in doubt;</l>
+            </lg>
+            <lg>
+               <l>Nay, whatſoever you have others ſhown,</l>
+               <l>You yet have no accquitance of your own,</l>
+               <l>But guiltie, doe as Iudas did in this,</l>
+               <l>Betray your Maſter, with a deadly kiſſe.</l>
+            </lg>
+            <lg>
+               <l>And for the Scots, of whom you dare to vant,</l>
+               <l>As if they did a Chriſtian feeling want.</l>
+               <l>They to their Soveraign, will be true, we know,</l>
+               <l>Yet not adhear unto Delinquents though:</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="34" facs="tcp:171204:24"/>
+            <head>The Papiſt plotting.</head>
+            <lg>
+               <l>Come Chriſtian Catholikes, our caſe is good,</l>
+               <l>And many yeares, yea hundred yeares hath ſtood,</l>
+               <l>And ſtill ſhall ſtand, indeed how ſhould it fall?</l>
+               <l>Built on a Rock, as Chriſt did Peter call:</l>
+            </lg>
+            <lg>
+               <l>And though this land, this fatall land of late</l>
+               <l>Hath curbd our caſe, and us by act of ſtate;</l>
+               <l>Yet both the firſt, and moſt of Englands Kings,</l>
+               <l>Have ſhrouded under our Religions wings.</l>
+            </lg>
+            <lg>
+               <l>And for the preſent, though we dare not ſay,</l>
+               <l>Our King is for us, yet our Queen we may,</l>
+               <l>And though ſhe ſeeks not to uſurp his Crowne,</l>
+               <l>Yet where ſhe ſmiles, we truſt he will not frowne.</l>
+            </lg>
+            <lg>
+               <l>Deare Queens of England, you have ſhown good will</l>
+               <l>Except ſome few, to our Religion ſtill.</l>
+               <l>And ſure her Highneſſe, who doth meetly ſen</l>
+               <l>So neer His grace, wil not our caſe forget.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Oh! Royall Mary, one of Englands pearles,</l>
+               <l>And ſet within the ſignet of our Charles;</l>
+               <l>Yea ſealed in the center of His heart;</l>
+               <l>Though you poſſeſſe it, doe not it pervert.</l>
+            </lg>
+            <lg>
+               <l>Dread Soveraigne, pardon I beſeech your Grace,</l>
+               <l>Though I ſpeake rudely, and before your face:</l>
+               <l>Many good ſubjects, thouſands, as I heare,</l>
+               <l>Are jealous of you, doe ſome danger feare.</l>
+            </lg>
+            <lg>
+               <l>But Oh, what feare they? Oh deare Queen tis this</l>
+               <l>That you ſhould cauſe our King to doe amiſſe,</l>
+               <l>To change Religion, if not, goe about,</l>
+               <l>To race his deare profeſt Religion out.</l>
+            </lg>
+            <lg>
+               <l>But Gratious Soveraigne, let there not he ſeen,</l>
+               <l>Such ſpots as theſe are, in ſo faire a Quueen,</l>
+               <l>But make your ſubjects, who have hearts thus ſhaken,</l>
+               <l>Unto their comfort, finde they are miſtaken.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="35" facs="tcp:171204:24"/>
+            <head>Malignants Raving.</head>
+            <lg>
+               <l>Great King, whoſe praiſes do through Europe ring,</l>
+               <l>Of England, Scotland, France, and Ireland King,</l>
+               <l>And ſtill defender of the Chriſtian faith,</l>
+               <l>What ever damn'd preciſe rebellion ſaith.</l>
+            </lg>
+            <lg>
+               <l>Oh that your Highneſſe knew our loyall hearts,</l>
+               <l>Who now lie pent up in diſloyall parts;</l>
+               <l>We are, indeed, inforc'd to aide your foes,</l>
+               <l>But know dread Soveraign, this doth work our woes,</l>
+            </lg>
+            <lg>
+               <l>If we reſiſt, they curb us at their pleaſures,</l>
+               <l>Command us, yea and rob us of our treaſures;</l>
+               <l>And force us oft, through their infernall ſpight,</l>
+               <l>To ſpeake them faire, as if their cauſe were right.</l>
+            </lg>
+            <lg>
+               <l>But were your Highneſſe, and your forces heer,</l>
+               <l>You ſoon ſhould ſee our loyall hearts appear;</l>
+               <l>And know deare Soveraigne, it our care hath bin,</l>
+               <l>And Still continues, how to let you in.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Great and deare Soveraigne, I your Grace beſeech,</l>
+               <l>Be not miſled, thus by Malignant ſpeech,</l>
+               <l>Build not upon ſuch bare foundations laid,</l>
+               <l>Your Throne will ſtagger, if no better ſtaid.</l>
+            </lg>
+            <lg>
+               <l>Your Throne, dread Soveraigne, and ſo your com<g ref="char:EOLhyphen"/>mand,</l>
+               <l>In righteouſneſſe eſtabliſhed will ſtand,</l>
+               <l>The wiſeſt King that ever raignd, hath ſaid it,</l>
+               <l>And woe be to thoſe wretches, have betraid it.</l>
+            </lg>
+            <lg>
+               <l>Great King, and gratious, be reſolv'd that thoſe,</l>
+               <l>We call Malignants, ha' been vertues foes,</l>
+               <l>Scarce one of many, ever underſtood</l>
+               <l>To have been zealous, any for good.</l>
+            </lg>
+            <lg>
+               <l>Heavens curb them then, that to your Throne pro<g ref="char:EOLhyphen"/>pound,</l>
+               <l>Such props as theſe are, which were never found;</l>
+               <l>And in much mercy, let your Highneſſe ſee</l>
+               <l>Your Throne by vertue muſt eſtabliſhd bee.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="36" facs="tcp:171204:25"/>
+            <head>Good Chriſtians craving</head>
+            <lg>
+               <l>Oh! thou preſerver of mankind give care,</l>
+               <l>Thou God of Abraham, God of England heare,</l>
+               <l>We have thy promiſe, that thou wilt draw nigh,</l>
+               <l>In times of trouble, if we to thee cry;</l>
+            </lg>
+            <lg>
+               <l>We call upon thee, wee beſeech thy ayde,</l>
+               <l>Thou didſt heare Abraham, when he to thee prayd,</l>
+               <l>And in much mercy, anſwerd him therein,</l>
+               <l>To ſave a City, for the ſake of ten.</l>
+            </lg>
+            <lg>
+               <l>Lord, looke on England, ſure there thouſands bee,</l>
+               <l>That unto Baall, never bow'd the knee:</l>
+               <l>Thine owne deare ſervants, who doe dayly ſtand,</l>
+               <l>Before thee weeping, for this woefull land.</l>
+            </lg>
+            <lg>
+               <l>Thy ſervants ſuits, are powerfull in thine eares,</l>
+               <l>And thou doſt ſurely bottle up their teares.</l>
+               <l>Lord let thy ſpirit of compaſſion move</l>
+               <l>Them on thoſe waters, and their ſuits approve.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>The Epigram.</head>
+            <lg>
+               <l>Lord God of Hoaſts, are Englands finns ſo great,</l>
+               <l>That pardon for them, no meanes can intreat?</l>
+               <l>What not thine own, and deareſt ſervants cryes,</l>
+               <l>But ſtill unanſwerd, England bleeding lyes?</l>
+            </lg>
+            <lg>
+               <l>Sure, ſurely Lord, thy ſervants cries are heard,</l>
+               <l>Although their ſuits, may be a while deferd:</l>
+               <l>Thou canſt as well, from being God decline,</l>
+               <l>As canſt ſurceaſe, from being good to thine.</l>
+            </lg>
+            <lg>
+               <l>Oh then you ſervants of the Lord proceed,</l>
+               <l>Call, cry, and ſpare not, God will help at need;</l>
+               <l>It may be that your backwardneſſe in praying,</l>
+               <l>Hath been ſome reaſon, God is thus delaying.</l>
+            </lg>
+            <lg>
+               <l>Gods anger greatly, doth againſt us rage,</l>
+               <l>Which will not, without great intreaties ſwage.</l>
+               <l>And you are they, and only they indeed,</l>
+               <l>Whom God will heare, whoſe ſuits, are like to ſpeed;</l>
+               <l>Then cry, cry ſtrongly, never was more need.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="37" facs="tcp:171204:25"/>
+            <head>The Neuter Temporizing.</head>
+            <lg>
+               <l>But ere my Penſell let this picture goe,</l>
+               <l>There is a Neuter muſt not ſcape me ſo,</l>
+               <l>Though I confeſſe, I did till now, not mind him,</l>
+               <l>Nor is it eaſie, as he is, to finde him:</l>
+            </lg>
+            <lg>
+               <l>To finde him; no, fond fugitive indeed,</l>
+               <l>He knowes not where to finde himſelfe at need:</l>
+               <l>So vaine, and ſo inconſtant, that each winde,</l>
+               <l>Tranſports the man into another minde;</l>
+            </lg>
+            <lg>
+               <l>Indeed he moves not by his ſoule, but ſenſe,</l>
+               <l>And ſo both acteth, and reſolves from thence,</l>
+               <l>From which it comes, that in theſe times of feare;</l>
+               <l>He is not led by reaſon, but the eare.</l>
+            </lg>
+            <lg>
+               <l>The eare indeed, for that he makes his guide;</l>
+               <l>But ſee thereby to what the aſſe is tied:</l>
+               <l>Now when a chriſtian ſhould be like a rock,</l>
+               <l>And reſt unmov'd, he's right a weather-cock,</l>
+               <l>And cannot in his reſolutions tarry,</l>
+               <l>But dayly changeth, as reports doe vary.</l>
+            </lg>
+            <lg>
+               <l>To day he heares he muſt be for the King,</l>
+               <l>The winde to morrow, other news doth bring.</l>
+               <l>For <hi>Eſſex</hi> proſpers, which doth ſo divide</l>
+               <l>This Neuters thoughts, he doubts on either ſide.</l>
+            </lg>
+            <lg>
+               <l>From whence this Neuter doth reſolve, in fine,</l>
+               <l>That he will unto neither ſide incline;</l>
+               <l>But will become a looker on, untill,</l>
+               <l>He ſees indeed, which ſide ſhall have their will.</l>
+            </lg>
+            <lg>
+               <l>And this he reckons, is the ſafeſt way,</l>
+               <l>For then thinks he, who ever gets the day,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall finde favour, doubtleſſe, in their eyes,</l>
+               <l>As one that hath been moderate, and wiſe.</l>
+            </lg>
+            <lg>
+               <l>As for Religion now, tis ſo contrould,</l>
+               <l>And ſo in doubt, he knowes not what to hold;</l>
+               <l>That to be zealous, in theſe times, therin,</l>
+               <l>He counts meer folly, if not veniall ſin.</l>
+               <l>Whiles from the world, his Athieſme to hide,</l>
+               <l>He in appearance, ſeems on either ſide;</l>
+               <pb n="38" facs="tcp:171204:26"/>
+               <l>With Cavaieers, is ſtrongly for the King;</l>
+               <l>VVith others, can proteſt another thing.</l>
+               <l>Yea enter into Covenant, perchance</l>
+               <l>To aide that ſide, he meanes not to advance.</l>
+            </lg>
+            <lg>
+               <l>From whence it comes, that in this time of need</l>
+               <l>His purſe, is with his purpoſe, ſo agreed,</l>
+               <l>That of one croſſe, this Neuter will not purge it<g ref="char:punc">▪</g>
+               </l>
+               <l>But as conſtraint, or very ſhame ſhall urge it.</l>
+            </lg>
+            <lg>
+               <l>And what he parts with, goes ſo neere his heart,</l>
+               <l>As if each penny, were thereof a part;</l>
+               <l>VVhich is apparant, when he comes to pay it,</l>
+               <l>His ſighes, and ſordid language doth bewray it.</l>
+            </lg>
+            <lg>
+               <l>Thus this cloſe Neuter, Athieſt I ſuppoſe,</l>
+               <l>Appeares, but would not what he is, diſcloſe;</l>
+               <l>But only, that way to avoide ſuſpition,</l>
+               <l>Doth ſeeme to ſit himſelfe to each condition.</l>
+            </lg>
+            <lg>
+               <l>But Lukewarme Neuters, thou that countſt it foll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>To be Religious, or to ſeem too holy;</l>
+               <l>Or Godleſſe Athieſt, thou who canſt not looſe,</l>
+               <l>That prize Religion, having thine to chooſe.</l>
+            </lg>
+            <lg>
+               <l>Canſt thou remaine now ſuch a ſenſeleſſe ſtone?</l>
+               <l>Or ſouleleſſe creature, a meere looker on?</l>
+               <l>Now, whiles the Kingdome, in ſuch flames doth fri<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Has't not one drop of water to ſupplie?</l>
+               <l>Now when our Soveraigne, doth in bondage live,</l>
+               <l>VVilt not one penny, for his freedome give.</l>
+               <l>Now whiles Religion, lying at the ſtake,</l>
+               <l>Begging aſſiſtance, doth ſo deeply ſhake.</l>
+               <l>Haſt neither hand to helpe, nor tongue to crave,</l>
+               <l>Nor heart to pittie, what thou canſt not ſave?</l>
+            </lg>
+            <lg>
+               <l>Sure thou art ſordid, more then ſenſleſſe farr,</l>
+               <l>And worſe by much, then moſt Malignants are;</l>
+               <l>They can pretend Religion for excuſe,</l>
+               <l>Thou canſt ſay nothing, for thy foule abuſe;</l>
+               <l>But void of all Religion, all may ſee,</l>
+               <l>Thou elſe to one ſide, woulſt adhering bee.</l>
+            </lg>
+            <lg>
+               <l>And wheras through thy irreligious wit,</l>
+               <l>Thou hopſt, hereafter much applanſe to git;</l>
+               <pb n="39" facs="tcp:171204:26"/>
+               <l>Or finde much favour, at the leaſt, tis plaine</l>
+               <l>That theſe thy hopes, ſhall prove at laſt but vaine,</l>
+               <l>For ſith thou wilt, to neither ſide incline,</l>
+               <l>Tis juſt, that both ſhould ſpew thee out in fine.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>
+                  <hi>I</hi> Have a ſecond part</l>
+               <l>Lyes glowing at my heart,</l>
+               <l>Which quickly would increaſe</l>
+               <l>To flames, might we have peace.</l>
+            </lg>
+            <lg>
+               <l>But ſuch a peace, it then muſt be</l>
+               <l>Wherein we farther bliſſe may ſee;</l>
+               <l>Or elſe thoſe ſparkes muſt doubtleſſe die,</l>
+               <l>Which rakd up in theſe aſhes lie.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171204:27"/>
+            <pb facs="tcp:171204:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>
